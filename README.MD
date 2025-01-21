@@ -35,58 +35,30 @@ seguem abaixo.
 
 ## 🧠 Prompts
 
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Escreva um pequeno livro.
+
+1) O livro é sobre programação, mais especificamente sobre Angular e a utilização dos componentes do Angular Material.
+
+2) Os capítulos devem ser sobre a utilização de 10 a 20 diferentes componentes do Angular Material. O e-book deve ter em torno de 40 páginas; desta forma, divida as 40 páginas pelo número de componentes que serão explicados.
+
+3) O público-alvo são iniciantes no Angular Material, mas que já tenham alguma compreensão do Angular e de desenvolvimento web.
+
+4) Quero que você escreve o livro. Os capítulos devem ser curtos, com abundância de imagens e ilustrações, e que contenham comandos específicos e simples para a utilização dos componentes.
+
+5) Na capa deve haver o logo do Angular e do Angular Material, além de um título chamativo e um subtítulo que especifique sobre o que é o livro. O nome do autor deve ser "Paulo H. S. de Oliveira", e deve ser posicionado na parte inferior da capa.
+
+6) Deve haver também uma pequena introdução sobre o Angular Material no início do livro - o que é, por que surgiu e qual seu propósito.
+
+7) Faça uma diagramação minimalista, com pequenos elementos que lembrem e sejam evocativos do Angular Material.
+
+8) A última página do livro deve deixar claro que o e-book foi gerado por IA e com fins didáticos de entrega de um projeto para curso da plataforma DIO, que o conteúdo não foi revisado por humanos e que pode conter erros.
 
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
