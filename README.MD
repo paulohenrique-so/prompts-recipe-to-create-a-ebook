@@ -18,8 +18,7 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | prompt                                                                                                                                                             
 Escreva um pequeno livro.
 
 1) O livro é sobre programação, mais especificamente sobre Angular e a utilização dos componentes do Angular Material.
